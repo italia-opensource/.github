@@ -7,9 +7,8 @@ This is a starting point, the goal is to be able to create an open community tha
 ## Projects
 
 - [Italia Opensource](https://github.com/italia-opensource/awesome-italia-opensource)
-<img align="right" src="https://img.shields.io/github/stars/italia-opensource/awesome-italia-opensource?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"  style="padding: 1px !important;"> 
-<img align="right" src="https://img.shields.io/github/issues-raw/italia-opensource/awesome-italia-opensource" alt="Issues"  style="padding: 1px !important;"> 
-<img align="right" src="https://img.shields.io/github/license/italia-opensource/awesome-italia-opensource" alt="License"  style="padding: 1px !important;">
+<img align="right" src="https://img.shields.io/github/stars/italia-opensource/awesome-italia-opensource?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"> 
+<img align="right" src="https://img.shields.io/github/issues-raw/italia-opensource/awesome-italia-opensource" alt="Issues">
 
 
 ## Founder and Mantainer
