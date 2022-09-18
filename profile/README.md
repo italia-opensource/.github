@@ -11,7 +11,7 @@ Is a list of open source projects created by Italian companies or developers.
 
 
 - [Awesome Italia Startups](https://github.com/italia-opensource/awesome-italia-startups)<img align="right" src="https://img.shields.io/github/stars/italia-opensource/awesome-italia-startups?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"> <img align="right" src="https://img.shields.io/github/issues-raw/italia-opensource/awesome-italia-startups" alt="Issues"> \
-Is a list of open source projects created by Italian companies or developers.
+Is a list of Italian startups.
 
 ## Founder and Mantainer
 
