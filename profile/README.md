@@ -12,5 +12,8 @@ Is a list of opensource projects created by Italian companies or developers.
 
 ## Founder and Mantainer
 
-- **[Fabrizio Cafolla](https://github.com/FabrizioCafolla)**
-  <a href="https://www.buymeacoffee.com/fabriziocafolla" target="_blank"><img  align="right" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important; width: 150px !important" ></a>
+**[Fabrizio Cafolla](https://github.com/FabrizioCafolla)**
+
+<a href="https://opencollective.com/italia-open-source/donate" target="_blank">
+  <img src="https://opencollective.com/italia-open-source/donate/button@2x.png?color=blue" width=200 />
+</a>
