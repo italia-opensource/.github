@@ -1,8 +1,8 @@
-# ☀️ Italia Opensource
+# 🚀 Italia Opensource
 
 **Italy Open-Source** is a project whose purpose is to give transparency to the Italian tech ecosystem.
 
-The **only fully open-source platform** that transparently gives voice, discovers, and explores **Italy tech innovations**.
+The **only fully open-source platform** that transparently gives voice, discovers, and explores **Italy's tech innovations**.
 
 Through a series of **awesome** lists, we seek to give visibility to open-source projects, communities, tech blogs, innovative companies, and more.
 
@@ -14,10 +14,15 @@ In a transparent way, you can access, add, or modify the data in the repository,
 An awesome list of open-source projects, companies, and tech communities in Italy.
 
 
-### ❤️ Founder and Maintainer
-
-**[Fabrizio Cafolla](https://github.com/FabrizioCafolla)**
+### ❤️ Maintained by [Fabrizio Cafolla](https://github.com/FabrizioCafolla)
 
 <a href="https://opencollective.com/italia-open-source/donate" target="_blank">
   <img src="https://opencollective.com/italia-open-source/donate/button@2x.png?color=blue" width=200 />
 </a>
+
+
+### 🔥 Contributors
+
+Please read the [contribution guidelines](https://github.com/italia-opensource/awesome-italia-opensource/blob/main/CONTRIBUTING.md) before opening a pull request or contributing to this repository
+
+<a href="https://github.com/italia-opensource/awesome-italia-opensource/graphs/contributors"> <img src="https://contrib.rocks/image?repo=italia-opensource/awesome-italia-opensource" /> </a>
