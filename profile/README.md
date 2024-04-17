@@ -1,4 +1,4 @@
-# 🚀 Italia Opensource
+# 🚀 Italia Open-Source
 
 **Italy Open-Source** is a project whose purpose is to give transparency to the Italian tech ecosystem.
 
