@@ -13,6 +13,9 @@ Our vision is to create an ecosystem where sharing and collaboration are the nor
 - [Awesome Italia Open-Source](https://github.com/italia-opensource/awesome-italia-opensource) <img align="right" src="https://img.shields.io/github/stars/italia-opensource/awesome-italia-opensource?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"> <img align="right" src="https://img.shields.io/github/issues-pr/italia-opensource/awesome-italia-opensource" alt="Pull Request">  <img align="right" src="https://img.shields.io/github/issues-raw/italia-opensource/awesome-italia-opensource" alt="Issues"> \
 An awesome list of open-source projects, companies, and tech communities in Italy.
 
+- [Italia Open-Source (website)](https://github.com/italia-opensource/italiaopensource.com) <img align="right" src="https://img.shields.io/github/stars/italia-opensource/italiaopensource.com?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"> <img align="right" src="https://img.shields.io/github/issues-pr/italia-opensource/italiaopensource.com" alt="Pull Request">  <img align="right" src="https://img.shields.io/github/issues-raw/italia-opensource/italiaopensource.com" alt="Issues"> \
+Is the official repository of Italia Open-Source where reports and data related to the surveys of the annual reports are published.
+
 - [The State of Italian Open-Source](https://github.com/italia-opensource/state-of-open-source-reports) <img align="right" src="https://img.shields.io/github/stars/italia-opensource/state-of-open-source-reports?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"> <img align="right" src="https://img.shields.io/github/issues-pr/italia-opensource/state-of-open-source-reports" alt="Pull Request">  <img align="right" src="https://img.shields.io/github/issues-raw/italia-opensource/state-of-open-source-reports" alt="Issues"> \
 Is the official repository of Italia Open-Source where reports and data related to the surveys of the annual reports are published.
 
